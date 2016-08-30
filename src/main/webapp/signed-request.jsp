@@ -85,8 +85,9 @@ POSSIBILITY OF SUCH DAMAGE.
     <div id="page">
         <div id="content">
             <div id="header">
-                <h1 >Hello <span id='fullname'></span>!</h1>
-                <h2>Welcome to the Force.com Canvas Java Quick Start Template!</h2>
+            	<h1>Welcome to the Force.com Canvas Example</h1>
+                <h2 >Hello <span id='fullname'></span>!</h2>
+                
             </div>
 
             <div id="canvas-content">
@@ -122,7 +123,7 @@ POSSIBILITY OF SUCH DAMAGE.
                 </div>
             </div>
         </div>
-
+<!--
         <div id="footercont">
             <div id="footerleft">
                 <p>Powered By: <a title="Heroku" href="#" onclick="window.top.location.href='http://www.heroku.com'"><strong>Heroku</strong></a></p>
@@ -130,7 +131,7 @@ POSSIBILITY OF SUCH DAMAGE.
             <div id="footerright">
                 <p>Salesforce: <a title="Safe Harbor" href="http://www.salesforce.com/company/investor/safe_harbor.jsp"><strong>SafeHarbor</strong></a></p>
             </div>
-        </div>
+        </div>-->
     </div>
     </body>
  </html>
